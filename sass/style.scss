@@ -5,6 +5,16 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.box{
+	width: 200px;
+	height: 250px;
+	background-color: red;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
 .header {
     display: flex;
     height: 100px;
